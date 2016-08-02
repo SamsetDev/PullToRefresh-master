@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PullToRefreshSample</string>
+
+    <integer-array name="material_colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/material_red</item>
+    </integer-array>
+</resources>
